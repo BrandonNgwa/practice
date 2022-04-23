@@ -1,2 +1,2 @@
-whats my name it boy
-wassup thou
+Hello
+This is my first github
